@@ -1,0 +1,21 @@
+[
+  {
+    "id": 101,
+    "name": "Laptop",
+    "price": 75000,
+    "quantity": 5,
+    "store": "Amazon",
+    "category": "Electronics",
+    "warranty": 12
+  },
+  {
+    "id": 202,
+    "name": "T-Shirt",
+    "price": 999,
+    "quantity": 20,
+    "store": "Flipkart",
+    "category": "Clothing",
+    "size": "L",
+    "fabric": "Cotton"
+  }
+]
