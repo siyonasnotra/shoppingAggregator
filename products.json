@@ -17,5 +17,42 @@
     "category": "Clothing",
     "size": "L",
     "fabric": "Cotton"
+  },
+  {
+    "id": 303,
+    "name": "Smartphone",
+    "price": 55000,
+    "quantity": 10,
+    "store": "Croma",
+    "category": "Electronics",
+    "warranty": 24
+  },
+  {
+    "id": 404,
+    "name": "Shoes",
+    "price": 2999,
+    "quantity": 15,
+    "store": "Nike Store",
+    "category": "Footwear",
+    "size": "42",
+    "material": "Leather"
+  },
+  {
+    "id": 505,
+    "name": "Refrigerator",
+    "price": 32000,
+    "quantity": 3,
+    "store": "Reliance Digital",
+    "category": "Appliances",
+    "warranty": 36
+  },
+  {
+    "id": 606,
+    "name": "Wrist Watch",
+    "price": 1999,
+    "quantity": 8,
+    "store": "Titan",
+    "category": "Accessories",
+    "warranty": 12
   }
 ]
